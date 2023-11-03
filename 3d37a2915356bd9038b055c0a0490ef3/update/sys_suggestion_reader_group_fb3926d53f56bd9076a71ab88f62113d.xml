@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_suggestion_reader_group">
+    <sys_suggestion_reader_group action="INSERT_OR_UPDATE">
+        <click_in_mode>false</click_in_mode>
+        <context_config_id/>
+        <limit>5</limit>
+        <order>300</order>
+        <section_header/>
+        <suggestion_type>Suggested Query Reader Group for Starter Workspace AI Search Configuration</suggestion_type>
+        <sys_class_name>sys_suggestion_reader_group</sys_class_name>
+        <sys_created_by>btaylor</sys_created_by>
+        <sys_created_on>2023-11-03 14:09:41</sys_created_on>
+        <sys_id>fb3926d53f56bd9076a71ab88f62113d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Suggested Query Reader Group for Starter Workspace AI Search Configuration</sys_name>
+        <sys_package display_value="Warranty Solutions" source="x_snc_warranty_s_0">3d37a2915356bd9038b055c0a0490ef3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Warranty Solutions">3d37a2915356bd9038b055c0a0490ef3</sys_scope>
+        <sys_update_name>sys_suggestion_reader_group_fb3926d53f56bd9076a71ab88f62113d</sys_update_name>
+        <sys_updated_by>btaylor</sys_updated_by>
+        <sys_updated_on>2023-11-03 14:09:41</sys_updated_on>
+    </sys_suggestion_reader_group>
+</record_update>

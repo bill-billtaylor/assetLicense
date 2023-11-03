@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Task table schema" source="com.glide.task">f522bb2983113110ecccb596feaad34e</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>btaylor</sys_created_by>
+        <sys_created_on>2023-11-03 14:02:18</sys_created_on>
+        <sys_id>8897ee915356bd9038b055c0a0490e33</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Warranty Solutions" source="x_snc_warranty_s_0">3d37a2915356bd9038b055c0a0490ef3</sys_package>
+        <sys_updated_by>btaylor</sys_updated_by>
+        <sys_updated_on>2023-11-03 14:02:18</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

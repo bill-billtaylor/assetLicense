@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Tabs Configuration</description>
+        <name>chrome_tab</name>
+        <page display_value="Warranty Solutions">7b3926d5b256bd908829d5a47ddf3e42</page>
+        <required_translations>[ {
+  "message" : "New License Records",
+  "comment" : ""
+} ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>btaylor</sys_created_by>
+        <sys_created_on>2023-11-03 14:09:42</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>333926d5d056bd904ed35c9054551a33</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>chrome_tab</sys_name>
+        <sys_package display_value="Warranty Solutions" source="x_snc_warranty_s_0">3d37a2915356bd9038b055c0a0490ef3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Warranty Solutions">3d37a2915356bd9038b055c0a0490ef3</sys_scope>
+        <sys_update_name>sys_ux_page_property_333926d5d056bd904ed35c9054551a33</sys_update_name>
+        <sys_updated_by>btaylor</sys_updated_by>
+        <sys_updated_on>2023-11-03 14:09:45</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_snc_warranty_s_0.7b3926d5b256bd908829d5a47ddf3e42.root.chrome_tab</unique_name>
+        <value>{"contextual":["record"],"newTabMenu":[{"label":{"translatable":true,"message":"New License Records"},"routeInfo":{"route":"record","fields":{"table":"x_snc_warranty_s_0_license_records","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_snc_warranty_s_0_license_records","canCreate":true}}}],"maxMainTabLimit":10,"maxTotalSubTabLimit":30}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=333926d5d056bd904ed35c9054551a33"/>
+</record_update>

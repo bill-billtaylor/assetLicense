@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">373926d5c856bd906dbb3554dd3d2a3b</canvas>
+        <component display_value="Single score">d24d53f60350de7a652caf3188a46ed2</component>
+        <component_props>{"scoreSize":"md","headingPosition":"top","sparklineStyle":"area","showScoreDate":false,"useRelativeScoreTime":false,"showScoreUpdateTime":true,"enableRealTimeUpdate":true,"showZero":true,"colorConfig":{"type":"default"},"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"License Records","sourceType":"table","tableOrViewName":"x_snc_warranty_s_0_license_records","filterQuery":"active=true^assigned_toISEMPTY","id":"dGFibGV0YXNrMTY1Mzg0MTk5Mjg3MA==","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"wrapTitle":false,"showHeaderSeparator":false,"headerTitle":"Unassigned Tasks","showBorder":true,"bareBorder":false,"showDataPassthrough":false,"dataPassthrough":null,"metrics":[{"dataSource":"dGFibGV0YXNrMTY1Mzg0MTk5Mjg3MA==","id":"ZEdGaWJHVjBZWE5yTVRZMU16ZzBNVGs1TWpnM01BPT0xNjUzODQyMzc3NTI1","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"groupBy":null,"sortBy":"value","sortByOrder":"desc","trendBy":null,"showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableDrilldown":true,"showMaximumRange":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":false,"period":"M","dateFormat":"default","hideMatrixAggregate":false,"newReporting":false,"configVersion":"23.0.0-ci-SNAPSHOT","filterConfigurations":[],"noDebounce":""}</component_props>
+        <h>9</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>btaylor</sys_created_by>
+        <sys_created_on>2023-11-03 14:09:42</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>773926d5d056bd90bd8b3e800397d93a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Warranty Solutions" source="x_snc_warranty_s_0">3d37a2915356bd9038b055c0a0490ef3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Warranty Solutions">3d37a2915356bd9038b055c0a0490ef3</sys_scope>
+        <sys_update_name>par_dashboard_widget_773926d5d056bd90bd8b3e800397d93a</sys_update_name>
+        <sys_updated_by>btaylor</sys_updated_by>
+        <sys_updated_on>2023-11-03 14:09:44</sys_updated_on>
+        <visualization/>
+        <w>16</w>
+        <widget_props/>
+        <x>16</x>
+        <y>3</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Warranty Solutions">3d37a2915356bd9038b055c0a0490ef3</application>
+        <file_path/>
+        <instance_id>30be2b6d1b19b910ba5ceb9b2d4bcb10</instance_id>
+        <instance_name>demoallwf39517</instance_name>
+        <name>par_dashboard_widget_773926d5d056bd90bd8b3e800397d93a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">373926d5c856bd906dbb3554dd3d2a3b</canvas><component display_value="Single score">d24d53f60350de7a652caf3188a46ed2</component><component_props>{"scoreSize":"md","headingPosition":"top","sparklineStyle":"area","showScoreDate":false,"useRelativeScoreTime":false,"showScoreUpdateTime":true,"enableRealTimeUpdate":true,"showZero":true,"colorConfig":{"type":"default"},"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"License Records","sourceType":"table","tableOrViewName":"x_snc_warranty_s_0_license_records","filterQuery":"active=true^assigned_toISEMPTY","id":"dGFibGV0YXNrMTY1Mzg0MTk5Mjg3MA==","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"wrapTitle":false,"showHeaderSeparator":false,"headerTitle":"Unassigned Tasks","showBorder":true,"bareBorder":false,"showDataPassthrough":false,"dataPassthrough":null,"metrics":[{"dataSource":"dGFibGV0YXNrMTY1Mzg0MTk5Mjg3MA==","id":"ZEdGaWJHVjBZWE5yTVRZMU16ZzBNVGs1TWpnM01BPT0xNjUzODQyMzc3NTI1","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"groupBy":null,"sortBy":"value","sortByOrder":"desc","trendBy":null,"showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableDrilldown":true,"showMaximumRange":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":false,"period":"M","dateFormat":"default","hideMatrixAggregate":false,"newReporting":false,"configVersion":"23.0.0-ci-SNAPSHOT","filterConfigurations":[],"noDebounce":""}</component_props><h>9</h><name/><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>btaylor</sys_created_by><sys_created_on>2023-11-03 14:09:42</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>773926d5d056bd90bd8b3e800397d93a</sys_id><sys_mod_count>1</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Warranty Solutions" source="x_snc_warranty_s_0">3d37a2915356bd9038b055c0a0490ef3</sys_package><sys_policy/><sys_scope display_value="Warranty Solutions">3d37a2915356bd9038b055c0a0490ef3</sys_scope><sys_update_name>par_dashboard_widget_773926d5d056bd90bd8b3e800397d93a</sys_update_name><sys_updated_by>btaylor</sys_updated_by><sys_updated_on>2023-11-03 14:09:44</sys_updated_on><visualization/><w>16</w><widget_props/><x>16</x><y>3</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>1656422802</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>f137a2915356bd9038b055c0a0490ef8</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>btaylor</sys_created_by>
+        <sys_created_on>2023-11-03 14:09:44</sys_created_on>
+        <sys_id>344966d55356bd9038b055c0a0490e29</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18b9584b63c0000001</sys_recorded_at>
+        <sys_updated_by>btaylor</sys_updated_by>
+        <sys_updated_on>2023-11-03 14:09:44</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>b84966d53f56bd904c2093ed37e9a128</update_guid>
+        <update_guid_history>b84966d53f56bd904c2093ed37e9a128:1656422802,f44966d52556bd9000ceda23cdca9f27:-1931492631</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">1603361d5396bd9038b055c0a0490e39</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>btaylor</sys_created_by>
+        <sys_created_on>2023-11-03 14:52:25</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>5d4b343c86a3428c88954434da282209</sys_id>
+        <sys_metadata>773926d5d056bd90bd8b3e800397d93a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Warranty Solutions" source="x_snc_warranty_s_0">3d37a2915356bd9038b055c0a0490ef3</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Warranty Solutions">3d37a2915356bd9038b055c0a0490ef3</sys_scope>
+        <sys_scope_delete display_value="">284d1bc89b414878a512faa07141e440</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_773926d5d056bd90bd8b3e800397d93a</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_773926d5d056bd90bd8b3e800397d93a">344966d55356bd9038b055c0a0490e29</sys_update_version>
+        <sys_updated_by>btaylor</sys_updated_by>
+        <sys_updated_on>2023-11-03 14:52:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

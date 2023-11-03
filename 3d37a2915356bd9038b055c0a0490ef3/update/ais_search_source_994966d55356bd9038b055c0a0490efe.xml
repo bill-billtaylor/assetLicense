@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_source">
+    <ais_search_source action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition/>
+        <datasource display_value="">x_snc_warranty_s_0_license_records</datasource>
+        <name>License Records</name>
+        <sys_class_name>ais_search_source</sys_class_name>
+        <sys_created_by>btaylor</sys_created_by>
+        <sys_created_on>2023-11-03 14:09:45</sys_created_on>
+        <sys_id>994966d55356bd9038b055c0a0490efe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>License Records</sys_name>
+        <sys_package display_value="Warranty Solutions" source="x_snc_warranty_s_0">3d37a2915356bd9038b055c0a0490ef3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Warranty Solutions">3d37a2915356bd9038b055c0a0490ef3</sys_scope>
+        <sys_update_name>ais_search_source_994966d55356bd9038b055c0a0490efe</sys_update_name>
+        <sys_updated_by>btaylor</sys_updated_by>
+        <sys_updated_on>2023-11-03 14:09:45</sys_updated_on>
+    </ais_search_source>
+</record_update>

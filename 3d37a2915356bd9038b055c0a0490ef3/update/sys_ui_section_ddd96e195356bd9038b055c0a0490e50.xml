@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="License Information" section_id="ddd96e195356bd9038b055c0a0490e50" sys_domain="global" table="x_snc_warranty_s_0_license_records" version="3" view="workspace-warranty-solutions-0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>company</element>
+            <position>0</position>
+            <sys_created_by>btaylor</sys_created_by>
+            <sys_created_on>2023-11-03 14:24:31</sys_created_on>
+            <sys_id>61ac2e9d5356bd9038b055c0a0490e21</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="License Information" display_value="License Information" name="x_snc_warranty_s_0_license_records" sys_domain="global" view="7f3926d56156bd9048f12e1e43cd5f38">ddd96e195356bd9038b055c0a0490e50</sys_ui_section>
+            <sys_updated_by>btaylor</sys_updated_by>
+            <sys_updated_on>2023-11-03 14:24:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>warranty_start_date</element>
+            <position>1</position>
+            <sys_created_by>btaylor</sys_created_by>
+            <sys_created_on>2023-11-03 14:24:31</sys_created_on>
+            <sys_id>69ac2e9d5356bd9038b055c0a0490e21</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="License Information" display_value="License Information" name="x_snc_warranty_s_0_license_records" sys_domain="global" view="7f3926d56156bd9048f12e1e43cd5f38">ddd96e195356bd9038b055c0a0490e50</sys_ui_section>
+            <sys_updated_by>btaylor</sys_updated_by>
+            <sys_updated_on>2023-11-03 14:24:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>maintenance_start_date</element>
+            <position>2</position>
+            <sys_created_by>btaylor</sys_created_by>
+            <sys_created_on>2023-11-03 14:24:31</sys_created_on>
+            <sys_id>61ac2e9d5356bd9038b055c0a0490e22</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="License Information" display_value="License Information" name="x_snc_warranty_s_0_license_records" sys_domain="global" view="7f3926d56156bd9048f12e1e43cd5f38">ddd96e195356bd9038b055c0a0490e50</sys_ui_section>
+            <sys_updated_by>btaylor</sys_updated_by>
+            <sys_updated_on>2023-11-03 14:24:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>status</element>
+            <position>3</position>
+            <sys_created_by>btaylor</sys_created_by>
+            <sys_created_on>2023-11-03 14:24:31</sys_created_on>
+            <sys_id>69ac2e9d5356bd9038b055c0a0490e22</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="License Information" display_value="License Information" name="x_snc_warranty_s_0_license_records" sys_domain="global" view="7f3926d56156bd9048f12e1e43cd5f38">ddd96e195356bd9038b055c0a0490e50</sys_ui_section>
+            <sys_updated_by>btaylor</sys_updated_by>
+            <sys_updated_on>2023-11-03 14:24:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>auto_renewal_eligible</element>
+            <position>4</position>
+            <sys_created_by>btaylor</sys_created_by>
+            <sys_created_on>2023-11-03 14:24:31</sys_created_on>
+            <sys_id>61ac2e9d5356bd9038b055c0a0490e23</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="License Information" display_value="License Information" name="x_snc_warranty_s_0_license_records" sys_domain="global" view="7f3926d56156bd9048f12e1e43cd5f38">ddd96e195356bd9038b055c0a0490e50</sys_ui_section>
+            <sys_updated_by>btaylor</sys_updated_by>
+            <sys_updated_on>2023-11-03 14:24:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>first_time_or_renewal</element>
+            <position>5</position>
+            <sys_created_by>btaylor</sys_created_by>
+            <sys_created_on>2023-11-03 14:24:31</sys_created_on>
+            <sys_id>69ac2e9d5356bd9038b055c0a0490e23</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="License Information" display_value="License Information" name="x_snc_warranty_s_0_license_records" sys_domain="global" view="7f3926d56156bd9048f12e1e43cd5f38">ddd96e195356bd9038b055c0a0490e50</sys_ui_section>
+            <sys_updated_by>btaylor</sys_updated_by>
+            <sys_updated_on>2023-11-03 14:24:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>6</position>
+            <sys_created_by>btaylor</sys_created_by>
+            <sys_created_on>2023-11-03 14:24:31</sys_created_on>
+            <sys_id>61ac2e9d5356bd9038b055c0a0490e24</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="License Information" display_value="License Information" name="x_snc_warranty_s_0_license_records" sys_domain="global" view="7f3926d56156bd9048f12e1e43cd5f38">ddd96e195356bd9038b055c0a0490e50</sys_ui_section>
+            <sys_updated_by>btaylor</sys_updated_by>
+            <sys_updated_on>2023-11-03 14:24:31</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>manufacturer</element>
+            <position>7</position>
+            <sys_created_by>btaylor</sys_created_by>
+            <sys_created_on>2023-11-03 14:24:31</sys_created_on>
+            <sys_id>69ac2e9d5356bd9038b055c0a0490e24</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="License Information" display_value="License Information" name="x_snc_warranty_s_0_license_records" sys_domain="global" view="7f3926d56156bd9048f12e1e43cd5f38">ddd96e195356bd9038b055c0a0490e50</sys_ui_section>
+            <sys_updated_by>btaylor</sys_updated_by>
+            <sys_updated_on>2023-11-03 14:24:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>warranty_end_date</element>
+            <position>8</position>
+            <sys_created_by>btaylor</sys_created_by>
+            <sys_created_on>2023-11-03 14:24:31</sys_created_on>
+            <sys_id>61ac2e9d5356bd9038b055c0a0490e25</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="License Information" display_value="License Information" name="x_snc_warranty_s_0_license_records" sys_domain="global" view="7f3926d56156bd9048f12e1e43cd5f38">ddd96e195356bd9038b055c0a0490e50</sys_ui_section>
+            <sys_updated_by>btaylor</sys_updated_by>
+            <sys_updated_on>2023-11-03 14:24:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>maintenance_end_date</element>
+            <position>9</position>
+            <sys_created_by>btaylor</sys_created_by>
+            <sys_created_on>2023-11-03 14:24:31</sys_created_on>
+            <sys_id>69ac2e9d5356bd9038b055c0a0490e25</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="License Information" display_value="License Information" name="x_snc_warranty_s_0_license_records" sys_domain="global" view="7f3926d56156bd9048f12e1e43cd5f38">ddd96e195356bd9038b055c0a0490e50</sys_ui_section>
+            <sys_updated_by>btaylor</sys_updated_by>
+            <sys_updated_on>2023-11-03 14:24:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>version</element>
+            <position>10</position>
+            <sys_created_by>btaylor</sys_created_by>
+            <sys_created_on>2023-11-03 14:24:31</sys_created_on>
+            <sys_id>61ac2e9d5356bd9038b055c0a0490e26</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="License Information" display_value="License Information" name="x_snc_warranty_s_0_license_records" sys_domain="global" view="7f3926d56156bd9048f12e1e43cd5f38">ddd96e195356bd9038b055c0a0490e50</sys_ui_section>
+            <sys_updated_by>btaylor</sys_updated_by>
+            <sys_updated_on>2023-11-03 14:24:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>dealer</element>
+            <position>11</position>
+            <sys_created_by>btaylor</sys_created_by>
+            <sys_created_on>2023-11-03 14:24:31</sys_created_on>
+            <sys_id>69ac2e9d5356bd9038b055c0a0490e26</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="License Information" display_value="License Information" name="x_snc_warranty_s_0_license_records" sys_domain="global" view="7f3926d56156bd9048f12e1e43cd5f38">ddd96e195356bd9038b055c0a0490e50</sys_ui_section>
+            <sys_updated_by>btaylor</sys_updated_by>
+            <sys_updated_on>2023-11-03 14:24:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>contract_type</element>
+            <position>12</position>
+            <sys_created_by>btaylor</sys_created_by>
+            <sys_created_on>2023-11-03 14:24:31</sys_created_on>
+            <sys_id>61ac2e9d5356bd9038b055c0a0490e27</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="License Information" display_value="License Information" name="x_snc_warranty_s_0_license_records" sys_domain="global" view="7f3926d56156bd9048f12e1e43cd5f38">ddd96e195356bd9038b055c0a0490e50</sys_ui_section>
+            <sys_updated_by>btaylor</sys_updated_by>
+            <sys_updated_on>2023-11-03 14:24:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity.xml</element>
+            <position>13</position>
+            <sys_created_by>btaylor</sys_created_by>
+            <sys_created_on>2023-11-03 14:24:31</sys_created_on>
+            <sys_id>69ac2e9d5356bd9038b055c0a0490e27</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
+            <sys_ui_section caption="License Information" display_value="License Information" name="x_snc_warranty_s_0_license_records" sys_domain="global" view="7f3926d56156bd9048f12e1e43cd5f38">ddd96e195356bd9038b055c0a0490e50</sys_ui_section>
+            <sys_updated_by>btaylor</sys_updated_by>
+            <sys_updated_on>2023-11-03 14:24:31</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>License Information</caption>
+            <header>false</header>
+            <name>x_snc_warranty_s_0_license_records</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>btaylor</sys_created_by>
+            <sys_created_on>2023-11-03 14:12:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ddd96e195356bd9038b055c0a0490e50</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_warranty_s_0_license_records</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Warranty Solutions" source="x_snc_warranty_s_0">3d37a2915356bd9038b055c0a0490ef3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Warranty Solutions">3d37a2915356bd9038b055c0a0490ef3</sys_scope>
+            <sys_update_name>sys_ui_section_ddd96e195356bd9038b055c0a0490e50</sys_update_name>
+            <sys_updated_by>btaylor</sys_updated_by>
+            <sys_updated_on>2023-11-03 14:12:14</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace Warranty Solutions 0" name="workspace-warranty-solutions-0">7f3926d56156bd9048f12e1e43cd5f38</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

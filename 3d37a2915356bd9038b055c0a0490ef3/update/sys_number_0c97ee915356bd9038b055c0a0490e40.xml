@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_snc_warranty_s_0_license_records">x_snc_warranty_s_0_license_records</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>LIC</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>btaylor</sys_created_by>
+        <sys_created_on>2023-11-03 14:02:18</sys_created_on>
+        <sys_id>0c97ee915356bd9038b055c0a0490e40</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>LIC</sys_name>
+        <sys_package display_value="Warranty Solutions" source="x_snc_warranty_s_0">3d37a2915356bd9038b055c0a0490ef3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Warranty Solutions">3d37a2915356bd9038b055c0a0490ef3</sys_scope>
+        <sys_update_name>sys_number_0c97ee915356bd9038b055c0a0490e40</sys_update_name>
+        <sys_updated_by>btaylor</sys_updated_by>
+        <sys_updated_on>2023-11-03 14:02:18</sys_updated_on>
+    </sys_number>
+</record_update>

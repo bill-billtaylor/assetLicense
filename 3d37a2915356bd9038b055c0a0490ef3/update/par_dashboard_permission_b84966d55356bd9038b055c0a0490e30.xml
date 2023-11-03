@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_permission">
+    <par_dashboard_permission action="INSERT_OR_UPDATE">
+        <can_read>true</can_read>
+        <can_share>false</can_share>
+        <can_write>false</can_write>
+        <dashboard display_value="Warranty Solutions">f73926d53b56bd90aaf9f6f25a191c3b</dashboard>
+        <group/>
+        <role display_value="x_snc_warranty_s_0.admin_warranty" name="x_snc_warranty_s_0.admin_warranty">4637a2915356bd9038b055c0a0490efd</role>
+        <sys_class_name>par_dashboard_permission</sys_class_name>
+        <sys_created_by>btaylor</sys_created_by>
+        <sys_created_on>2023-11-03 14:09:44</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b84966d55356bd9038b055c0a0490e30</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>f73926d53b56bd90aaf9f6f25a191c3b</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Warranty Solutions" source="x_snc_warranty_s_0">3d37a2915356bd9038b055c0a0490ef3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Warranty Solutions">3d37a2915356bd9038b055c0a0490ef3</sys_scope>
+        <sys_update_name>par_dashboard_permission_b84966d55356bd9038b055c0a0490e30</sys_update_name>
+        <sys_updated_by>btaylor</sys_updated_by>
+        <sys_updated_on>2023-11-03 14:09:44</sys_updated_on>
+        <user/>
+    </par_dashboard_permission>
+</record_update>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="3387ae915356bd9038b055c0a0490eea" extends="task" label="License Records" max_length="40" name="x_snc_warranty_s_0_license_records" type="collection">
+        <element choice="3" label="Auto-renewal Eligible?" max_length="40" name="auto_renewal_eligible" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="no"/>
+            </choice>
+        </element>
+        <element choice="3" label="Contract Type" max_length="40" name="contract_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Subscription" sequence="0" value="subscription"/>
+                <element inactive_on_update="false" label="Term License" sequence="1" value="term_license"/>
+                <element inactive_on_update="false" label="Perpetual" sequence="2" value="perpetual"/>
+            </choice>
+        </element>
+        <element label="Dealer" max_length="40" name="dealer" reference="core_company" type="reference"/>
+        <element choice="3" label="First Time or Renewal" max_length="40" name="first_time_or_renewal" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="First Time" sequence="0" value="first_time"/>
+                <element inactive_on_update="false" label="Renewal" sequence="1" value="renewal"/>
+            </choice>
+        </element>
+        <element choice="3" label="Is Hardware" max_length="40" name="is_hardware" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="no"/>
+            </choice>
+        </element>
+        <element label="License Key" max_length="40" name="license_key" type="string"/>
+        <element label="Maintenance End Date" max_length="40" name="maintenance_end_date" type="glide_date"/>
+        <element label="Maintenance Start Date" max_length="40" name="maintenance_start_date" type="glide_date"/>
+        <element label="Manufacturer" max_length="40" name="manufacturer" reference="core_company" type="reference"/>
+        <element label="Order Number URL" max_length="40" name="order_number" type="url"/>
+        <element label="Order Number" max_length="40" name="order_number_value" read_only="true" type="string"/>
+        <element label="Product Name" max_length="40" name="product_name" type="string"/>
+        <element label="Serial Number" max_length="40" name="serial_number" type="string"/>
+        <element choice="3" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Active" sequence="0" value="active"/>
+                <element inactive_on_update="false" label="Expired" sequence="1" value="expired"/>
+            </choice>
+        </element>
+        <element label="Vendor PO URL" max_length="40" name="vendor_po" type="url"/>
+        <element label="Vendor PO" max_length="40" name="vendor_po_value" read_only="true" type="string"/>
+        <element label="Version" max_length="40" name="version" type="string"/>
+        <element label="Warranty End Date" max_length="40" name="warranty_end_date" type="glide_date"/>
+        <element label="Warranty Start Date" max_length="40" name="warranty_start_date" type="glide_date"/>
+    </element>
+</database>

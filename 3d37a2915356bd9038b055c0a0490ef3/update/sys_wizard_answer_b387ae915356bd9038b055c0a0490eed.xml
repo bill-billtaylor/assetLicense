@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>License Records</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>License Records</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">b122bb2983113110ecccb596feaad351</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>btaylor</sys_created_by>
+        <sys_created_on>2023-11-03 14:02:18</sys_created_on>
+        <sys_id>b387ae915356bd9038b055c0a0490eed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>License Records</sys_name>
+        <sys_package display_value="Warranty Solutions" source="x_snc_warranty_s_0">3d37a2915356bd9038b055c0a0490ef3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Warranty Solutions">3d37a2915356bd9038b055c0a0490ef3</sys_scope>
+        <sys_update_name>sys_wizard_answer_b387ae915356bd9038b055c0a0490eed</sys_update_name>
+        <sys_updated_by>btaylor</sys_updated_by>
+        <sys_updated_on>2023-11-03 14:02:18</sys_updated_on>
+        <table/>
+        <target_url>x_snc_warranty_s_0_license_records.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>
