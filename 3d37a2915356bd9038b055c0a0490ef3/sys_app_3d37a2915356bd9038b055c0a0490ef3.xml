@@ -13,7 +13,7 @@
         <license_category>none</license_category>
         <license_definition/>
         <license_model>none</license_model>
-        <logo>1637a2515356bd9038b055c0a0490ecf</logo>
+        <logo/>
         <menu/>
         <name>Warranty Solutions</name>
         <private>false</private>
@@ -31,9 +31,9 @@
         <sys_created_by>btaylor</sys_created_by>
         <sys_created_on>2023-11-03 14:00:47</sys_created_on>
         <sys_id>3d37a2915356bd9038b055c0a0490ef3</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_updated_by>btaylor</sys_updated_by>
-        <sys_updated_on>2023-11-03 14:00:49</sys_updated_on>
+        <sys_updated_on>2023-11-06 18:46:09</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
